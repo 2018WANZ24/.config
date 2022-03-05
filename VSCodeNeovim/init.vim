@@ -1,0 +1,32 @@
+noremap n h
+noremap e j
+noremap u k
+noremap i l
+noremap l u
+noremap k i
+noremap K I
+noremap h e
+noremap H E
+noremap - N
+noremap = n
+
+noremap! <A-h> <Home>
+noremap! <A-o> <End>
+inoremap <A-u> <Up>
+inoremap <A-e> <Down>
+cnoremap <A-l> <Up>
+cnoremap <A-y> <Down>
+
+noremap <A-u> <C-b>
+noremap <A-e> <C-f>
+noremap N ^
+nnoremap I $
+vnoremap I $h
+noremap W 5w
+noremap B 5b
+nnoremap > >>
+nnoremap < <<
+noremap ` ~
+noremap ; :
+noremap j %
+nnoremap vv ^v$h

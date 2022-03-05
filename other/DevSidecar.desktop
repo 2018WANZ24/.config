@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=DevSidecar
+GenericName=DevSidecar
+Comment=DevSidecar
+Exec=/home/wanz2/Applications/DevSidecar/DevSidecar-1.7.3.AppImage
+Icon=/home/wanz2/Applications/DevSidecar/favicon.ico
